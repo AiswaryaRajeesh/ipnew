@@ -1,0 +1,14 @@
+.main{
+    height: 100vh;
+  }
+  .interest-div{
+    height: 50%;
+    
+  }
+  .inside-div{
+    height: 300px;
+    width: 200px;
+  }
+  .head{
+    font-size: larger
+  }
